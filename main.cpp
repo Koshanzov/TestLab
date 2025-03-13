@@ -5,7 +5,7 @@
 #include "circle.h"
 
 using namespace std;
-
+//main
 int main() {
   while (true){
     cout << "Выберите фигуру:" << endl;
